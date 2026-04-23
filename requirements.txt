@@ -1,7 +1,4 @@
 streamlit
 plotly
-google-generativeai
 google-genai
-simpy
-time
-PIL
+pandas
