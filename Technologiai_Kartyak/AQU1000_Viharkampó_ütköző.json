@@ -1,0 +1,45 @@
+{
+  "alkatresz_neve": "AQU-10-00_Viharkampó_ütköző",
+  "anyagigeny": [
+    {
+      "anyag": "POM (Poliacetál)",
+      "anyagminoseg": "Fekete POM-C",
+      "mennyiseg": 0.005,
+      "mertekegyseg": "kg"
+    }
+  ],
+  "muveleti_sorrend": [
+    {
+      "lepes": 1,
+      "gep": "Szalagfűrész",
+      "muvelet": "Alapanyag darabolás (22x14x12 mm méretre)",
+      "ido_perc": 1,
+      "beallitasi_ido": 10,
+      "kezelo_igeny": 1
+    },
+    {
+      "lepes": 2,
+      "gep": "CNC megmunkálóközpont",
+      "muvelet": "Oldalazás, méretre marás és 2x45°, 4x45° letörések kialakítása",
+      "ido_perc": 5,
+      "beallitasi_ido": 45,
+      "kezelo_igeny": 1
+    },
+    {
+      "lepes": 3,
+      "gep": "CNC megmunkálóközpont",
+      "muvelet": "2x M5x0,8 menet előfúrása és menetfúrása",
+      "ido_perc": 3,
+      "beallitasi_ido": 0,
+      "kezelo_igeny": 1
+    },
+    {
+      "lepes": 4,
+      "gep": "Kézi munkahely",
+      "muvelet": "Sorjázás és végellenőrzés",
+      "ido_perc": 2,
+      "beallitasi_ido": 0,
+      "kezelo_igeny": 1
+    }
+  ]
+}
